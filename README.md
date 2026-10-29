@@ -184,8 +184,6 @@ loan-calcuation-application-api/
 └── README.md
 ```
 
-> Klasör adları örnek amaçlıdır; alt proje adlarını reponun gerçek yapısına göre kontrol edin.
-
 ## Kurulum
 
 ### Gereksinimler
